@@ -1,4 +1,4 @@
-﻿Welcome to the official issue tracking repository for the Best Unity3D plugin suite, now encompassing Best HTTP, Best Socket.IO, Best SignalR, Best Server-Sent Events and Best TLS Security. This platform is dedicated to addressing concerns, bugs, and feature requests related to these plugins.
+﻿Welcome to the official issue tracking repository for the Best Unity3D plugin suite, now encompassing Best HTTP, Best Socket.IO, Best SignalR, Best Server-Sent Events, Best STOMP and Best TLS Security. This platform is dedicated to addressing concerns, bugs, and feature requests related to these plugins.
 
 ## 📚 Documentation First
 
